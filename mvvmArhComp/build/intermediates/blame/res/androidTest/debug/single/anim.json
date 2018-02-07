@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/roxana.nistor/Desktop/mvvm/mvvmArhComp/build/intermediates/res/merged/androidTest/debug/anim/abc_fade_in.xml",
+        "source": "/Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/c7305f6a726d948a498da15fa61349d7/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/roxana.nistor/Desktop/mvvm/mvvmArhComp/build/intermediates/res/merged/androidTest/debug/anim/abc_fade_out.xml",
+        "source": "/Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/c7305f6a726d948a498da15fa61349d7/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/roxana.nistor/Desktop/mvvm/mvvmArhComp/build/intermediates/res/merged/androidTest/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/c7305f6a726d948a498da15fa61349d7/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/roxana.nistor/Desktop/mvvm/mvvmArhComp/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/c7305f6a726d948a498da15fa61349d7/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/roxana.nistor/Desktop/mvvm/mvvmArhComp/build/intermediates/res/merged/androidTest/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/c7305f6a726d948a498da15fa61349d7/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/roxana.nistor/Desktop/mvvm/mvvmArhComp/build/intermediates/res/merged/androidTest/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/c7305f6a726d948a498da15fa61349d7/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/roxana.nistor/Desktop/mvvm/mvvmArhComp/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/c7305f6a726d948a498da15fa61349d7/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/roxana.nistor/Desktop/mvvm/mvvmArhComp/build/intermediates/res/merged/androidTest/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/c7305f6a726d948a498da15fa61349d7/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/roxana.nistor/Desktop/mvvm/mvvmArhComp/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/c7305f6a726d948a498da15fa61349d7/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/roxana.nistor/Desktop/mvvm/mvvmArhComp/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/c7305f6a726d948a498da15fa61349d7/res/anim/abc_slide_in_top.xml"
+    }
+]
