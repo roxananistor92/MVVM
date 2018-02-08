@@ -2,7 +2,7 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 25
-    buildToolsVersion '26.0.2'
+    buildToolsVersion '25.0.2'
     defaultConfig {
         applicationId "com.acme.tictactoe"
         minSdkVersion 23
@@ -11,15 +11,32 @@ android {
         versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
+
+    signingConfigs {
+        release {
+            storeFile file(MVVM_RELEASE_STORE_FILE)
+            storePassword MVVM_RELEASE_STORE_PASSWORD
+            keyAlias MVVM_RELEASE_KEY_ALIAS
+            keyPassword MVVM_RELEASE_KEY_PASSWORD
+        }
+    }
+
     buildTypes {
         release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.release
         }
     }
 
     dataBinding {
         enabled = true
+    }
+    lintOptions {
+        disable 'TypographyFractions','TypographyQuotes','InvalidPackage'
+        abortOnError false
+        absolutePaths false
+        lintConfig file('lint.xml')
     }
 }
 

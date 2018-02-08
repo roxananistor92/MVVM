@@ -11,7 +11,7 @@ public class Board {
     private GameState state;
     private Player currentTurn;
 
-    private enum GameState { IN_PROGRESS, FINISHED };
+    private enum GameState { IN_PROGRESS, FINISHED }
 
     public Board() {
         restart();
@@ -80,11 +80,7 @@ public class Board {
             return false;
         } else if( isOutOfBounds(row) || isOutOfBounds(col) ) {
             return false;
-        } else if( isCellValueAlreadySet(row, col) ) {
-            return false;
-        } else {
-            return true;
-        }
+        } else return !isCellValueAlreadySet(row, col);
     }
 
     private boolean isOutOfBounds(int idx) {
