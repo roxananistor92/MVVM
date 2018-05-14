@@ -7,40 +7,38 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
+
 import com.acme.tictactoe.R;
 import com.acme.tictactoe.databinding.TictactoeBinding;
 import com.acme.tictactoe.viewmodel.TicTacToeViewModel;
 
-@SuppressWarnings("squid:MaximumInheritanceDepth")
 public class TicTacToeActivity extends AppCompatActivity {
 
-  private TicTacToeViewModel viewModel;
+    private TicTacToeViewModel viewModel;
 
-  @Override
-  protected void onCreate(Bundle savedInstanceState) {
-    super.onCreate(savedInstanceState);
-    viewModel = ViewModelProviders.of(this).get(TicTacToeViewModel.class);
-    TictactoeBinding binding = DataBindingUtil.setContentView(this, R.layout.tictactoe);
-    binding.setViewModel(viewModel);
-  }
-
-  @Override
-  public boolean onCreateOptionsMenu(Menu menu) {
-    MenuInflater inflater = getMenuInflater();
-    inflater.inflate(R.menu.menu_tictactoe, menu);
-    return true;
-  }
-
-  @Override
-  public boolean onOptionsItemSelected(MenuItem item) {
-    int i = item.getItemId();
-    if (i == R.id.action_reset) {
-      viewModel.onResetSelected();
-      return true;
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        viewModel = ViewModelProviders.of(this).get(TicTacToeViewModel.class);
+        TictactoeBinding binding = DataBindingUtil.setContentView(this, R.layout.tictactoe);
+        binding.setViewModel(viewModel);
     }
-    else {
-      return super.onOptionsItemSelected(item);
-    }
-  }
 
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        MenuInflater inflater = getMenuInflater();
+        inflater.inflate(R.menu.menu_tictactoe, menu);
+        return true;
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        int i = item.getItemId();
+        if (i == R.id.action_reset) {
+            viewModel.onResetSelected();
+            return true;
+        } else {
+            return super.onOptionsItemSelected(item);
+        }
+    }
 }

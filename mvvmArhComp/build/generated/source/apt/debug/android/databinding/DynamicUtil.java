@@ -2,6 +2,7 @@ package android.databinding;
 import android.os.Build.VERSION;
 import android.os.Build.VERSION_CODES;
 import android.databinding.BindingConversion;
+@javax.annotation.Generated("Android Data Binding")
 public class DynamicUtil {
     public static int safeUnbox(java.lang.Integer boxed) {
         return boxed == null ? 0 : (int)boxed;

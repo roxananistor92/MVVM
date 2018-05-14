@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/arch-components-mvvm/arch-components-mvvm.iml" filepath="$PROJECT_DIR$/arch-components-mvvm/arch-components-mvvm.iml" />
-      <module fileurl="file://$PROJECT_DIR$/arch-components-realm/arch-components-realm.iml" filepath="$PROJECT_DIR$/arch-components-realm/arch-components-realm.iml" />
-      <module fileurl="file://$PROJECT_DIR$/arch-components-room/arch-components-room.iml" filepath="$PROJECT_DIR$/arch-components-room/arch-components-room.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mvc/mvc.iml" filepath="$PROJECT_DIR$/mvc/mvc.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mvp/mvp.iml" filepath="$PROJECT_DIR$/mvp/mvp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mvvm.iml" filepath="$PROJECT_DIR$/.idea/modules/mvvm.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mvvm/mvvm.iml" filepath="$PROJECT_DIR$/mvvm/mvvm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvvm.iml" filepath="$PROJECT_DIR$/mvvm.iml" />
       <module fileurl="file://$PROJECT_DIR$/mvvmArhComp/mvvmArhComp.iml" filepath="$PROJECT_DIR$/mvvmArhComp/mvvmArhComp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/uni-directional-realm/uni-directional-realm.iml" filepath="$PROJECT_DIR$/uni-directional-realm/uni-directional-realm.iml" />
     </modules>
   </component>
 </project>

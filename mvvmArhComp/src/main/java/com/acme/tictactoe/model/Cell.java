@@ -2,13 +2,13 @@ package com.acme.tictactoe.model;
 
 public class Cell {
 
-  private Player value;
+    private Player player;
 
-  public Player getValue() {
-    return value;
-  }
+    public Player getPlayer() {
+        return player;
+    }
 
-  public void setValue(Player value) {
-    this.value = value;
-  }
+    public void setPlayer(Player player) {
+        this.player = player;
+    }
 }

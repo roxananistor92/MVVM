@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools">
 
     <data>
+
         <import type="android.view.View" />
-        <variable name="viewModel" type="com.acme.tictactoe.viewmodel.TicTacToeViewModel" />
+
+        <variable
+            name="viewModel"
+            type="com.acme.tictactoe.viewmodel.TicTacToeViewModel" />
     </data>
 
     <LinearLayout
         android:id="@+id/tictactoe"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:baselineAligned="false"
         android:gravity="center_horizontal"
         android:orientation="horizontal"
-        android:baselineAligned="false"
         android:paddingBottom="@dimen/activity_horizontal_margin"
         android:paddingLeft="@dimen/activity_horizontal_margin"
         android:paddingRight="@dimen/activity_horizontal_margin"
@@ -81,7 +86,8 @@
             android:layout_weight="1"
             android:gravity="center"
             android:orientation="vertical"
-            android:visibility="@{viewModel.winner != null ? View.VISIBLE : View.INVISIBLE}"
+            android:visibility="visible"
+            app:visibility="@{viewModel.winner != null ? View.VISIBLE : View.INVISIBLE}"
             tools:visibility="visible">
 
             <TextView
@@ -89,15 +95,15 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_margin="20dp"
-                android:textSize="40sp"
                 android:text="@{viewModel.winner}"
+                android:textSize="@dimen/big_text_size"
                 tools:text="X" />
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/winner"
-                android:textSize="30sp" />
+                android:textSize="@dimen/medium_text_size" />
 
         </LinearLayout>
 

@@ -1,4 +1,7 @@
-#Thu Feb 08 10:15:35 EET 2018
-base.0=/Users/roxana.nistor/Desktop/mvvm/mvvmArhComp/build/intermediates/transforms/dexMerger/debug/0
+#Mon May 14 14:16:31 EEST 2018
+base.0=/Users/roxana.nistor/projects/mvvm/mvvmArhComp/build/intermediates/transforms/dexMerger/debug/0
+path.1=classes.dex
+renamed.1=classes2.dex
 path.0=classes.dex
 renamed.0=classes.dex
+base.1=/Users/roxana.nistor/projects/mvvm/mvvmArhComp/build/intermediates/transforms/dexMerger/debug/1

@@ -4,6 +4,7 @@ import android.databinding.DataBindingUtil;
 import android.databinding.ViewDataBinding;
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
+@javax.annotation.Generated("Android Data Binding")
 public abstract class TictactoeBinding extends ViewDataBinding {
     @NonNull
     public final android.widget.GridLayout buttonGrid;

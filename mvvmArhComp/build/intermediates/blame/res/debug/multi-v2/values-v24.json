@@ -1,25 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/roxana.nistor/Desktop/mvvm/mvvmArhComp/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
+            "outputFile": "/Users/roxana.nistor/projects/mvvm/mvvmArhComp/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "/Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/ba150fab4997575e2f336646bbe0d6c0/res/values-v24/values-v24.xml",
+                    "source": "/Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8add7f5f1ca13f69a521f2bf472c63de/res/values-v24/values-v24.xml",
                     "from": {
-                        "startLines": "2,3,4,5,6,7",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "55,212,347,416,480,549",
-                        "endColumns": "156,134,68,63,68,69",
-                        "endOffsets": "207,342,411,475,544,614"
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,121,182,248",
+                        "endColumns": "65,60,65,66",
+                        "endOffsets": "116,177,243,310"
+                    },
+                    "to": {
+                        "startLines": "8,9,10,11",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "619,685,746,812",
+                        "endColumns": "65,60,65,66",
+                        "endOffsets": "680,741,807,874"
                     }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/roxana.nistor/Desktop/mvvm/mvvmArhComp/build/intermediates/res/merged/debug/values-v24/values-v24.xml",
-            "map": [
+                },
                 {
-                    "source": "/Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/ba150fab4997575e2f336646bbe0d6c0/res/values-v24/values-v24.xml",
+                    "source": "/Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ad340def0ccf43a483a3db1d6a4c7265/res/values-v24/values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7",
                         "startColumns": "4,4,4,4,4,4",

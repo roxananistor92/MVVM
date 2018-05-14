@@ -1,171 +1,207 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/roxana.nistor/Desktop/mvvm/mvvmArhComp/src/main/AndroidManifest.xml:2:1-19:12
-INJECTED from /Users/roxana.nistor/Desktop/mvvm/mvvmArhComp/src/main/AndroidManifest.xml:2:1-19:12
-INJECTED from /Users/roxana.nistor/Desktop/mvvm/mvvmArhComp/src/main/AndroidManifest.xml:2:1-19:12
-INJECTED from /Users/roxana.nistor/Desktop/mvvm/mvvmArhComp/src/main/AndroidManifest.xml:2:1-19:12
-MERGED from [com.android.databinding:adapters:1.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/adapters-1.3.1.aar/90ab3a42c4526ec6bfd5ecf137751e2a/AndroidManifest.xml:17:1-26:12
-MERGED from [com.android.databinding:library:1.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/library-1.3.1.aar/6151667e83a3dfa408c4de66ec9a5f32/AndroidManifest.xml:17:1-26:12
-MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/ba150fab4997575e2f336646bbe0d6c0/AndroidManifest.xml:17:1-31:12
-MERGED from [android.arch.lifecycle:extensions:1.0.0-alpha3] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0-alpha3.aar/20fde73d524ae1ba39f5c4524beb9c1e/AndroidManifest.xml:17:1-34:12
-MERGED from [android.arch.lifecycle:runtime:1.0.0-alpha3] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0-alpha3.aar/d60235f9acc25eb45da180e6e2e003df/AndroidManifest.xml:17:1-26:12
-MERGED from [android.arch.persistence.room:rxjava2:1.0.0-alpha3] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/rxjava2-1.0.0-alpha3.aar/7a1d6921eb16816ac7eb1ce62da9f3a1/AndroidManifest.xml:17:1-26:12
-MERGED from [android.arch.persistence.room:runtime:1.0.0-alpha3] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0-alpha3.aar/6a811f13b659f54dfe87c69a772ff475/AndroidManifest.xml:17:1-26:12
-MERGED from [com.android.support:support-v4:25.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/0f806f914ec9f7488b7353fa0841f1d8/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/d478b6281ec5a8fd4714b30bd098edb5/AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/4f2a7276dcb9fe90c760ac43dc78b00e/AndroidManifest.xml:17:1-28:12
-MERGED from [android.arch.core:core:1.0.0-alpha3] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/core-1.0.0-alpha3.aar/7d2ee36003f7df2d3b12c427a6cc7760/AndroidManifest.xml:17:1-26:12
-MERGED from [android.arch.persistence.room:support-db-impl:1.0.0-alpha3] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-db-impl-1.0.0-alpha3.aar/a5eb14a2fcc9c3f94d620c34e938f5b7/AndroidManifest.xml:17:1-26:12
-MERGED from [android.arch.persistence.room:support-db:1.0.0-alpha3] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-db-1.0.0-alpha3.aar/6d4476412c316fe095dd189c7d1d7e2f/AndroidManifest.xml:17:1-26:12
-MERGED from [com.android.support:support-fragment:25.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/2f5c48ec3bbab82be95a8276deeaf25e/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-utils:25.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/2631389e6532c27133a365ecbabc91cb/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-media-compat:25.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/1ff2fa2cb49675b70f1ba9280c73b0c9/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-ui:25.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/f10b61c302b3b3d77513780f5bee1a83/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-compat:25.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/f94f2d2df5d59833494d194360ec7a9e/AndroidManifest.xml:17:1-31:12
-INJECTED from /Users/roxana.nistor/Desktop/mvvm/mvvmArhComp/src/main/AndroidManifest.xml:2:1-19:12
-INJECTED from /Users/roxana.nistor/Desktop/mvvm/mvvmArhComp/src/main/AndroidManifest.xml:2:1-19:12
-INJECTED from /Users/roxana.nistor/Desktop/mvvm/mvvmArhComp/src/main/AndroidManifest.xml:2:1-19:12
+ADDED from /Users/roxana.nistor/projects/mvvm/mvvmArhComp/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/roxana.nistor/projects/mvvm/mvvmArhComp/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/roxana.nistor/projects/mvvm/mvvmArhComp/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/roxana.nistor/projects/mvvm/mvvmArhComp/src/main/AndroidManifest.xml:2:1-19:12
+MERGED from [com.android.databinding:adapters:1.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/adapters-1.3.1.aar/35dbf605daa4a9e67b92185b9782f273/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.databinding:library:1.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/library-1.3.1.aar/654e965cad4123f3233f773836219cdf/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support.test.espresso:espresso-core:2.2.2] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/espresso-core-2.2.2.aar/4a84f5708d6719fa0887904e4a50d103/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.persistence.room:testing:1.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/testing-1.1.0.aar/4cf01fd3749611bbd17cc26f1749cb09/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.test:rules:0.5] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/rules-0.5.aar/871759ab4ee303a4fb7d3b6034c52797/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support.test:runner:0.5] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/runner-0.5.aar/059684790c6546333a985cfd8a85d87f/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ad340def0ccf43a483a3db1d6a4c7265/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/ba64d0eb30a3a5e7efbfc028dfa6b994/AndroidManifest.xml:17:1-30:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/7299b737fff6c1d2507eb0cd3d36dcf9/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/c2aa5f8c1ab832a23b60a482009f425d/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/83c8f948aa90855391e03a4f563f6741/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/a26a1cf537e24e652c9256a454b0cc8e/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/4ed3a4b91b7a51d72a7a26737e7f6f06/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8add7f5f1ca13f69a521f2bf472c63de/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.persistence.room:rxjava2:1.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/rxjava2-1.1.0.aar/ff65d2ab095abb1f0d01af2fda2392d1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence.room:runtime:1.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8e80de5227c1ae59e43f03053bee99db/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/a0811192c21040eef7c69586e8cb725e/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/71b9dcca538eaf78768ac63809d56fc6/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/01597c2c58c94370111f719d17324e40/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:multidex:1.0.3] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/54c15c022d3c54ae6383e432893a3941/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.test.espresso:espresso-idling-resource:2.2.2] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/espresso-idling-resource-2.2.2.aar/7197eec429277a39475bf2d5e5983f09/AndroidManifest.xml:17:1-26:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/070aad3c9b4127a52bf4fe4afbe6630a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/ebad1d5672268b8fe7809b1b7e52d2f7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/687988b40e7a9618af6abdc0b976d518/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/ce75452215c2987e3ee6268189461958/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db-framework:1.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/db-framework-1.1.0.aar/b814f47cfc4d12c2c8453488b5d88d4e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db:1.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/db-1.1.0.aar/c5ce6048182bd2ece8ac787402b0a405/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.test:exposed-instrumentation-api-publish:0.5] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/exposed-instrumentation-api-publish-0.5.aar/aad4c6fb4f96968457545ddcb53ceb01/AndroidManifest.xml:17:1-26:12
+INJECTED from /Users/roxana.nistor/projects/mvvm/mvvmArhComp/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/roxana.nistor/projects/mvvm/mvvmArhComp/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/roxana.nistor/projects/mvvm/mvvmArhComp/src/main/AndroidManifest.xml:2:1-19:12
 	package
-		ADDED from /Users/roxana.nistor/Desktop/mvvm/mvvmArhComp/src/main/AndroidManifest.xml:3:5-33
-		INJECTED from /Users/roxana.nistor/Desktop/mvvm/mvvmArhComp/src/main/AndroidManifest.xml
-		INJECTED from /Users/roxana.nistor/Desktop/mvvm/mvvmArhComp/src/main/AndroidManifest.xml
+		ADDED from /Users/roxana.nistor/projects/mvvm/mvvmArhComp/src/main/AndroidManifest.xml:3:5-33
+		INJECTED from /Users/roxana.nistor/projects/mvvm/mvvmArhComp/src/main/AndroidManifest.xml
+		INJECTED from /Users/roxana.nistor/projects/mvvm/mvvmArhComp/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/roxana.nistor/Desktop/mvvm/mvvmArhComp/src/main/AndroidManifest.xml
-		ADDED from /Users/roxana.nistor/Desktop/mvvm/mvvmArhComp/src/main/AndroidManifest.xml:2:1-19:12
-		INJECTED from /Users/roxana.nistor/Desktop/mvvm/mvvmArhComp/src/main/AndroidManifest.xml
+		INJECTED from /Users/roxana.nistor/projects/mvvm/mvvmArhComp/src/main/AndroidManifest.xml
+		ADDED from /Users/roxana.nistor/projects/mvvm/mvvmArhComp/src/main/AndroidManifest.xml:2:1-19:12
+		INJECTED from /Users/roxana.nistor/projects/mvvm/mvvmArhComp/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/roxana.nistor/Desktop/mvvm/mvvmArhComp/src/main/AndroidManifest.xml
-		ADDED from /Users/roxana.nistor/Desktop/mvvm/mvvmArhComp/src/main/AndroidManifest.xml:2:1-19:12
-		INJECTED from /Users/roxana.nistor/Desktop/mvvm/mvvmArhComp/src/main/AndroidManifest.xml
+		INJECTED from /Users/roxana.nistor/projects/mvvm/mvvmArhComp/src/main/AndroidManifest.xml
+		ADDED from /Users/roxana.nistor/projects/mvvm/mvvmArhComp/src/main/AndroidManifest.xml:2:1-19:12
+		INJECTED from /Users/roxana.nistor/projects/mvvm/mvvmArhComp/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/roxana.nistor/Desktop/mvvm/mvvmArhComp/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/roxana.nistor/projects/mvvm/mvvmArhComp/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /Users/roxana.nistor/Desktop/mvvm/mvvmArhComp/src/main/AndroidManifest.xml:5:5-17:19
-MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/ba150fab4997575e2f336646bbe0d6c0/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/ba150fab4997575e2f336646bbe0d6c0/AndroidManifest.xml:29:5-20
-MERGED from [android.arch.lifecycle:extensions:1.0.0-alpha3] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0-alpha3.aar/20fde73d524ae1ba39f5c4524beb9c1e/AndroidManifest.xml:26:5-32:19
-MERGED from [android.arch.lifecycle:extensions:1.0.0-alpha3] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0-alpha3.aar/20fde73d524ae1ba39f5c4524beb9c1e/AndroidManifest.xml:26:5-32:19
-MERGED from [com.android.support:support-v4:25.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/0f806f914ec9f7488b7353fa0841f1d8/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-v4:25.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/0f806f914ec9f7488b7353fa0841f1d8/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/d478b6281ec5a8fd4714b30bd098edb5/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/d478b6281ec5a8fd4714b30bd098edb5/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/4f2a7276dcb9fe90c760ac43dc78b00e/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/4f2a7276dcb9fe90c760ac43dc78b00e/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/2f5c48ec3bbab82be95a8276deeaf25e/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/2f5c48ec3bbab82be95a8276deeaf25e/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/2631389e6532c27133a365ecbabc91cb/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/2631389e6532c27133a365ecbabc91cb/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/1ff2fa2cb49675b70f1ba9280c73b0c9/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/1ff2fa2cb49675b70f1ba9280c73b0c9/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/f10b61c302b3b3d77513780f5bee1a83/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/f10b61c302b3b3d77513780f5bee1a83/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/f94f2d2df5d59833494d194360ec7a9e/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/f94f2d2df5d59833494d194360ec7a9e/AndroidManifest.xml:29:5-20
+ADDED from /Users/roxana.nistor/projects/mvvm/mvvmArhComp/src/main/AndroidManifest.xml:5:5-17:19
+MERGED from [com.android.support.test:runner:0.5] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/runner-0.5.aar/059684790c6546333a985cfd8a85d87f/AndroidManifest.xml:24:5-20
+MERGED from [com.android.support.test:runner:0.5] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/runner-0.5.aar/059684790c6546333a985cfd8a85d87f/AndroidManifest.xml:24:5-20
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ad340def0ccf43a483a3db1d6a4c7265/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ad340def0ccf43a483a3db1d6a4c7265/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/ba64d0eb30a3a5e7efbfc028dfa6b994/AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/ba64d0eb30a3a5e7efbfc028dfa6b994/AndroidManifest.xml:22:5-28:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/7299b737fff6c1d2507eb0cd3d36dcf9/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/7299b737fff6c1d2507eb0cd3d36dcf9/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/c2aa5f8c1ab832a23b60a482009f425d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/c2aa5f8c1ab832a23b60a482009f425d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/83c8f948aa90855391e03a4f563f6741/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/83c8f948aa90855391e03a4f563f6741/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/a26a1cf537e24e652c9256a454b0cc8e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/a26a1cf537e24e652c9256a454b0cc8e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/4ed3a4b91b7a51d72a7a26737e7f6f06/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/4ed3a4b91b7a51d72a7a26737e7f6f06/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8add7f5f1ca13f69a521f2bf472c63de/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8add7f5f1ca13f69a521f2bf472c63de/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/a0811192c21040eef7c69586e8cb725e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/a0811192c21040eef7c69586e8cb725e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/71b9dcca538eaf78768ac63809d56fc6/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/71b9dcca538eaf78768ac63809d56fc6/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.test.espresso:espresso-idling-resource:2.2.2] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/espresso-idling-resource-2.2.2.aar/7197eec429277a39475bf2d5e5983f09/AndroidManifest.xml:24:5-20
+MERGED from [com.android.support.test.espresso:espresso-idling-resource:2.2.2] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/espresso-idling-resource-2.2.2.aar/7197eec429277a39475bf2d5e5983f09/AndroidManifest.xml:24:5-20
+MERGED from [com.android.support.test:exposed-instrumentation-api-publish:0.5] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/exposed-instrumentation-api-publish-0.5.aar/aad4c6fb4f96968457545ddcb53ceb01/AndroidManifest.xml:24:5-20
+MERGED from [com.android.support.test:exposed-instrumentation-api-publish:0.5] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/exposed-instrumentation-api-publish-0.5.aar/aad4c6fb4f96968457545ddcb53ceb01/AndroidManifest.xml:24:5-20
 	android:supportsRtl
-		ADDED from /Users/roxana.nistor/Desktop/mvvm/mvvmArhComp/src/main/AndroidManifest.xml:9:9-35
+		ADDED from /Users/roxana.nistor/projects/mvvm/mvvmArhComp/src/main/AndroidManifest.xml:9:9-35
 	android:label
-		ADDED from /Users/roxana.nistor/Desktop/mvvm/mvvmArhComp/src/main/AndroidManifest.xml:8:9-41
+		ADDED from /Users/roxana.nistor/projects/mvvm/mvvmArhComp/src/main/AndroidManifest.xml:8:9-41
 	android:icon
-		ADDED from /Users/roxana.nistor/Desktop/mvvm/mvvmArhComp/src/main/AndroidManifest.xml:7:9-43
+		ADDED from /Users/roxana.nistor/projects/mvvm/mvvmArhComp/src/main/AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from /Users/roxana.nistor/Desktop/mvvm/mvvmArhComp/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /Users/roxana.nistor/projects/mvvm/mvvmArhComp/src/main/AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from /Users/roxana.nistor/Desktop/mvvm/mvvmArhComp/src/main/AndroidManifest.xml:10:9-40
+		ADDED from /Users/roxana.nistor/projects/mvvm/mvvmArhComp/src/main/AndroidManifest.xml:10:9-40
 activity#com.acme.tictactoe.view.TicTacToeActivity
-ADDED from /Users/roxana.nistor/Desktop/mvvm/mvvmArhComp/src/main/AndroidManifest.xml:11:9-16:20
+ADDED from /Users/roxana.nistor/projects/mvvm/mvvmArhComp/src/main/AndroidManifest.xml:11:9-16:20
 	android:name
-		ADDED from /Users/roxana.nistor/Desktop/mvvm/mvvmArhComp/src/main/AndroidManifest.xml:11:19-57
+		ADDED from /Users/roxana.nistor/projects/mvvm/mvvmArhComp/src/main/AndroidManifest.xml:11:19-57
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/roxana.nistor/Desktop/mvvm/mvvmArhComp/src/main/AndroidManifest.xml:12:13-15:29
+ADDED from /Users/roxana.nistor/projects/mvvm/mvvmArhComp/src/main/AndroidManifest.xml:12:13-15:29
 action#android.intent.action.MAIN
-ADDED from /Users/roxana.nistor/Desktop/mvvm/mvvmArhComp/src/main/AndroidManifest.xml:13:17-69
+ADDED from /Users/roxana.nistor/projects/mvvm/mvvmArhComp/src/main/AndroidManifest.xml:13:17-69
 	android:name
-		ADDED from /Users/roxana.nistor/Desktop/mvvm/mvvmArhComp/src/main/AndroidManifest.xml:13:25-66
+		ADDED from /Users/roxana.nistor/projects/mvvm/mvvmArhComp/src/main/AndroidManifest.xml:13:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/roxana.nistor/Desktop/mvvm/mvvmArhComp/src/main/AndroidManifest.xml:14:17-77
+ADDED from /Users/roxana.nistor/projects/mvvm/mvvmArhComp/src/main/AndroidManifest.xml:14:17-77
 	android:name
-		ADDED from /Users/roxana.nistor/Desktop/mvvm/mvvmArhComp/src/main/AndroidManifest.xml:14:27-74
+		ADDED from /Users/roxana.nistor/projects/mvvm/mvvmArhComp/src/main/AndroidManifest.xml:14:27-74
 uses-sdk
-INJECTED from /Users/roxana.nistor/Desktop/mvvm/mvvmArhComp/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/roxana.nistor/Desktop/mvvm/mvvmArhComp/src/main/AndroidManifest.xml
-INJECTED from /Users/roxana.nistor/Desktop/mvvm/mvvmArhComp/src/main/AndroidManifest.xml
-MERGED from [com.android.databinding:adapters:1.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/adapters-1.3.1.aar/90ab3a42c4526ec6bfd5ecf137751e2a/AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.databinding:adapters:1.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/adapters-1.3.1.aar/90ab3a42c4526ec6bfd5ecf137751e2a/AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.databinding:library:1.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/library-1.3.1.aar/6151667e83a3dfa408c4de66ec9a5f32/AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.databinding:library:1.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/library-1.3.1.aar/6151667e83a3dfa408c4de66ec9a5f32/AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/ba150fab4997575e2f336646bbe0d6c0/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/ba150fab4997575e2f336646bbe0d6c0/AndroidManifest.xml:21:5-23:78
-MERGED from [android.arch.lifecycle:extensions:1.0.0-alpha3] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0-alpha3.aar/20fde73d524ae1ba39f5c4524beb9c1e/AndroidManifest.xml:22:5-24:41
-MERGED from [android.arch.lifecycle:extensions:1.0.0-alpha3] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0-alpha3.aar/20fde73d524ae1ba39f5c4524beb9c1e/AndroidManifest.xml:22:5-24:41
-MERGED from [android.arch.lifecycle:runtime:1.0.0-alpha3] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0-alpha3.aar/d60235f9acc25eb45da180e6e2e003df/AndroidManifest.xml:22:5-24:41
-MERGED from [android.arch.lifecycle:runtime:1.0.0-alpha3] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0-alpha3.aar/d60235f9acc25eb45da180e6e2e003df/AndroidManifest.xml:22:5-24:41
-MERGED from [android.arch.persistence.room:rxjava2:1.0.0-alpha3] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/rxjava2-1.0.0-alpha3.aar/7a1d6921eb16816ac7eb1ce62da9f3a1/AndroidManifest.xml:22:5-24:41
-MERGED from [android.arch.persistence.room:rxjava2:1.0.0-alpha3] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/rxjava2-1.0.0-alpha3.aar/7a1d6921eb16816ac7eb1ce62da9f3a1/AndroidManifest.xml:22:5-24:41
-MERGED from [android.arch.persistence.room:runtime:1.0.0-alpha3] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0-alpha3.aar/6a811f13b659f54dfe87c69a772ff475/AndroidManifest.xml:22:5-24:41
-MERGED from [android.arch.persistence.room:runtime:1.0.0-alpha3] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0-alpha3.aar/6a811f13b659f54dfe87c69a772ff475/AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-v4:25.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/0f806f914ec9f7488b7353fa0841f1d8/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:25.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/0f806f914ec9f7488b7353fa0841f1d8/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/d478b6281ec5a8fd4714b30bd098edb5/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/d478b6281ec5a8fd4714b30bd098edb5/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/4f2a7276dcb9fe90c760ac43dc78b00e/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/4f2a7276dcb9fe90c760ac43dc78b00e/AndroidManifest.xml:20:5-43
-MERGED from [android.arch.core:core:1.0.0-alpha3] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/core-1.0.0-alpha3.aar/7d2ee36003f7df2d3b12c427a6cc7760/AndroidManifest.xml:22:5-24:41
-MERGED from [android.arch.core:core:1.0.0-alpha3] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/core-1.0.0-alpha3.aar/7d2ee36003f7df2d3b12c427a6cc7760/AndroidManifest.xml:22:5-24:41
-MERGED from [android.arch.persistence.room:support-db-impl:1.0.0-alpha3] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-db-impl-1.0.0-alpha3.aar/a5eb14a2fcc9c3f94d620c34e938f5b7/AndroidManifest.xml:22:5-24:41
-MERGED from [android.arch.persistence.room:support-db-impl:1.0.0-alpha3] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-db-impl-1.0.0-alpha3.aar/a5eb14a2fcc9c3f94d620c34e938f5b7/AndroidManifest.xml:22:5-24:41
-MERGED from [android.arch.persistence.room:support-db:1.0.0-alpha3] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-db-1.0.0-alpha3.aar/6d4476412c316fe095dd189c7d1d7e2f/AndroidManifest.xml:22:5-24:41
-MERGED from [android.arch.persistence.room:support-db:1.0.0-alpha3] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-db-1.0.0-alpha3.aar/6d4476412c316fe095dd189c7d1d7e2f/AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-fragment:25.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/2f5c48ec3bbab82be95a8276deeaf25e/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:25.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/2f5c48ec3bbab82be95a8276deeaf25e/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-utils:25.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/2631389e6532c27133a365ecbabc91cb/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:25.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/2631389e6532c27133a365ecbabc91cb/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-media-compat:25.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/1ff2fa2cb49675b70f1ba9280c73b0c9/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:25.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/1ff2fa2cb49675b70f1ba9280c73b0c9/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/f10b61c302b3b3d77513780f5bee1a83/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:25.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/f10b61c302b3b3d77513780f5bee1a83/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:25.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/f94f2d2df5d59833494d194360ec7a9e/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:25.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/f94f2d2df5d59833494d194360ec7a9e/AndroidManifest.xml:21:5-23:58
-INJECTED from /Users/roxana.nistor/Desktop/mvvm/mvvmArhComp/src/main/AndroidManifest.xml
-INJECTED from /Users/roxana.nistor/Desktop/mvvm/mvvmArhComp/src/main/AndroidManifest.xml
+INJECTED from /Users/roxana.nistor/projects/mvvm/mvvmArhComp/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/roxana.nistor/projects/mvvm/mvvmArhComp/src/main/AndroidManifest.xml
+INJECTED from /Users/roxana.nistor/projects/mvvm/mvvmArhComp/src/main/AndroidManifest.xml
+MERGED from [com.android.databinding:adapters:1.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/adapters-1.3.1.aar/35dbf605daa4a9e67b92185b9782f273/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.databinding:adapters:1.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/adapters-1.3.1.aar/35dbf605daa4a9e67b92185b9782f273/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.databinding:library:1.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/library-1.3.1.aar/654e965cad4123f3233f773836219cdf/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.databinding:library:1.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/library-1.3.1.aar/654e965cad4123f3233f773836219cdf/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support.test.espresso:espresso-core:2.2.2] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/espresso-core-2.2.2.aar/4a84f5708d6719fa0887904e4a50d103/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.test.espresso:espresso-core:2.2.2] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/espresso-core-2.2.2.aar/4a84f5708d6719fa0887904e4a50d103/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence.room:testing:1.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/testing-1.1.0.aar/4cf01fd3749611bbd17cc26f1749cb09/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:testing:1.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/testing-1.1.0.aar/4cf01fd3749611bbd17cc26f1749cb09/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.test:rules:0.5] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/rules-0.5.aar/871759ab4ee303a4fb7d3b6034c52797/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.test:rules:0.5] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/rules-0.5.aar/871759ab4ee303a4fb7d3b6034c52797/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.test:runner:0.5] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/runner-0.5.aar/059684790c6546333a985cfd8a85d87f/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.test:runner:0.5] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/runner-0.5.aar/059684790c6546333a985cfd8a85d87f/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ad340def0ccf43a483a3db1d6a4c7265/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ad340def0ccf43a483a3db1d6a4c7265/AndroidManifest.xml:21:5-23:78
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/ba64d0eb30a3a5e7efbfc028dfa6b994/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/ba64d0eb30a3a5e7efbfc028dfa6b994/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/7299b737fff6c1d2507eb0cd3d36dcf9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/7299b737fff6c1d2507eb0cd3d36dcf9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/c2aa5f8c1ab832a23b60a482009f425d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/c2aa5f8c1ab832a23b60a482009f425d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/83c8f948aa90855391e03a4f563f6741/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/83c8f948aa90855391e03a4f563f6741/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/a26a1cf537e24e652c9256a454b0cc8e/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/a26a1cf537e24e652c9256a454b0cc8e/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/4ed3a4b91b7a51d72a7a26737e7f6f06/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/4ed3a4b91b7a51d72a7a26737e7f6f06/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8add7f5f1ca13f69a521f2bf472c63de/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8add7f5f1ca13f69a521f2bf472c63de/AndroidManifest.xml:21:5-23:63
+MERGED from [android.arch.persistence.room:rxjava2:1.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/rxjava2-1.1.0.aar/ff65d2ab095abb1f0d01af2fda2392d1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:rxjava2:1.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/rxjava2-1.1.0.aar/ff65d2ab095abb1f0d01af2fda2392d1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8e80de5227c1ae59e43f03053bee99db/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8e80de5227c1ae59e43f03053bee99db/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/a0811192c21040eef7c69586e8cb725e/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/a0811192c21040eef7c69586e8cb725e/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/71b9dcca538eaf78768ac63809d56fc6/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/71b9dcca538eaf78768ac63809d56fc6/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/01597c2c58c94370111f719d17324e40/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/01597c2c58c94370111f719d17324e40/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:multidex:1.0.3] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/54c15c022d3c54ae6383e432893a3941/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/54c15c022d3c54ae6383e432893a3941/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.test.espresso:espresso-idling-resource:2.2.2] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/espresso-idling-resource-2.2.2.aar/7197eec429277a39475bf2d5e5983f09/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.test.espresso:espresso-idling-resource:2.2.2] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/espresso-idling-resource-2.2.2.aar/7197eec429277a39475bf2d5e5983f09/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/070aad3c9b4127a52bf4fe4afbe6630a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/070aad3c9b4127a52bf4fe4afbe6630a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/ebad1d5672268b8fe7809b1b7e52d2f7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/ebad1d5672268b8fe7809b1b7e52d2f7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/687988b40e7a9618af6abdc0b976d518/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/687988b40e7a9618af6abdc0b976d518/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/ce75452215c2987e3ee6268189461958/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/ce75452215c2987e3ee6268189461958/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/db-framework-1.1.0.aar/b814f47cfc4d12c2c8453488b5d88d4e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/db-framework-1.1.0.aar/b814f47cfc4d12c2c8453488b5d88d4e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/db-1.1.0.aar/c5ce6048182bd2ece8ac787402b0a405/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/db-1.1.0.aar/c5ce6048182bd2ece8ac787402b0a405/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.test:exposed-instrumentation-api-publish:0.5] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/exposed-instrumentation-api-publish-0.5.aar/aad4c6fb4f96968457545ddcb53ceb01/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.test:exposed-instrumentation-api-publish:0.5] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/exposed-instrumentation-api-publish-0.5.aar/aad4c6fb4f96968457545ddcb53ceb01/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/roxana.nistor/projects/mvvm/mvvmArhComp/src/main/AndroidManifest.xml
+INJECTED from /Users/roxana.nistor/projects/mvvm/mvvmArhComp/src/main/AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/ba150fab4997575e2f336646bbe0d6c0/AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ad340def0ccf43a483a3db1d6a4c7265/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from /Users/roxana.nistor/Desktop/mvvm/mvvmArhComp/src/main/AndroidManifest.xml
-		ADDED from /Users/roxana.nistor/Desktop/mvvm/mvvmArhComp/src/main/AndroidManifest.xml
-		INJECTED from /Users/roxana.nistor/Desktop/mvvm/mvvmArhComp/src/main/AndroidManifest.xml
+		INJECTED from /Users/roxana.nistor/projects/mvvm/mvvmArhComp/src/main/AndroidManifest.xml
+		ADDED from /Users/roxana.nistor/projects/mvvm/mvvmArhComp/src/main/AndroidManifest.xml
+		INJECTED from /Users/roxana.nistor/projects/mvvm/mvvmArhComp/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/roxana.nistor/Desktop/mvvm/mvvmArhComp/src/main/AndroidManifest.xml
-		ADDED from /Users/roxana.nistor/Desktop/mvvm/mvvmArhComp/src/main/AndroidManifest.xml
-		INJECTED from /Users/roxana.nistor/Desktop/mvvm/mvvmArhComp/src/main/AndroidManifest.xml
+		INJECTED from /Users/roxana.nistor/projects/mvvm/mvvmArhComp/src/main/AndroidManifest.xml
+		ADDED from /Users/roxana.nistor/projects/mvvm/mvvmArhComp/src/main/AndroidManifest.xml
+		INJECTED from /Users/roxana.nistor/projects/mvvm/mvvmArhComp/src/main/AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/ba150fab4997575e2f336646bbe0d6c0/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-v4:25.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/0f806f914ec9f7488b7353fa0841f1d8/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-v4:25.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/0f806f914ec9f7488b7353fa0841f1d8/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/d478b6281ec5a8fd4714b30bd098edb5/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/d478b6281ec5a8fd4714b30bd098edb5/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/4f2a7276dcb9fe90c760ac43dc78b00e/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/4f2a7276dcb9fe90c760ac43dc78b00e/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-fragment:25.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/2f5c48ec3bbab82be95a8276deeaf25e/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/2f5c48ec3bbab82be95a8276deeaf25e/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/2631389e6532c27133a365ecbabc91cb/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/2631389e6532c27133a365ecbabc91cb/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/1ff2fa2cb49675b70f1ba9280c73b0c9/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/1ff2fa2cb49675b70f1ba9280c73b0c9/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/f10b61c302b3b3d77513780f5bee1a83/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/f10b61c302b3b3d77513780f5bee1a83/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/f94f2d2df5d59833494d194360ec7a9e/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/f94f2d2df5d59833494d194360ec7a9e/AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ad340def0ccf43a483a3db1d6a4c7265/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/7299b737fff6c1d2507eb0cd3d36dcf9/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/7299b737fff6c1d2507eb0cd3d36dcf9/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/c2aa5f8c1ab832a23b60a482009f425d/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/c2aa5f8c1ab832a23b60a482009f425d/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/83c8f948aa90855391e03a4f563f6741/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/83c8f948aa90855391e03a4f563f6741/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/a26a1cf537e24e652c9256a454b0cc8e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/a26a1cf537e24e652c9256a454b0cc8e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/4ed3a4b91b7a51d72a7a26737e7f6f06/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/4ed3a4b91b7a51d72a7a26737e7f6f06/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8add7f5f1ca13f69a521f2bf472c63de/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8add7f5f1ca13f69a521f2bf472c63de/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/a0811192c21040eef7c69586e8cb725e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/a0811192c21040eef7c69586e8cb725e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/71b9dcca538eaf78768ac63809d56fc6/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/71b9dcca538eaf78768ac63809d56fc6/AndroidManifest.xml:26:9-28:38
 	android:value
-		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/ba150fab4997575e2f336646bbe0d6c0/AndroidManifest.xml:27:9-31
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ad340def0ccf43a483a3db1d6a4c7265/AndroidManifest.xml:28:13-35
 	android:name
-		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/ba150fab4997575e2f336646bbe0d6c0/AndroidManifest.xml:26:9-47
-provider#android.arch.lifecycle.LifecycleRuntimeTrojanProvider
-ADDED from [android.arch.lifecycle:extensions:1.0.0-alpha3] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0-alpha3.aar/20fde73d524ae1ba39f5c4524beb9c1e/AndroidManifest.xml:27:9-31:43
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ad340def0ccf43a483a3db1d6a4c7265/AndroidManifest.xml:27:13-51
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/ba64d0eb30a3a5e7efbfc028dfa6b994/AndroidManifest.xml:23:9-27:43
 	android:authorities
-		ADDED from [android.arch.lifecycle:extensions:1.0.0-alpha3] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0-alpha3.aar/20fde73d524ae1ba39f5c4524beb9c1e/AndroidManifest.xml:29:13-68
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/ba64d0eb30a3a5e7efbfc028dfa6b994/AndroidManifest.xml:25:13-68
 	android:multiprocess
-		ADDED from [android.arch.lifecycle:extensions:1.0.0-alpha3] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0-alpha3.aar/20fde73d524ae1ba39f5c4524beb9c1e/AndroidManifest.xml:31:13-40
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/ba64d0eb30a3a5e7efbfc028dfa6b994/AndroidManifest.xml:27:13-40
 	android:exported
-		ADDED from [android.arch.lifecycle:extensions:1.0.0-alpha3] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0-alpha3.aar/20fde73d524ae1ba39f5c4524beb9c1e/AndroidManifest.xml:30:13-37
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/ba64d0eb30a3a5e7efbfc028dfa6b994/AndroidManifest.xml:26:13-37
 	android:name
-		ADDED from [android.arch.lifecycle:extensions:1.0.0-alpha3] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0-alpha3.aar/20fde73d524ae1ba39f5c4524beb9c1e/AndroidManifest.xml:28:13-81
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/ba64d0eb30a3a5e7efbfc028dfa6b994/AndroidManifest.xml:24:13-83

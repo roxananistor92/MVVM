@@ -1,6 +1,7 @@
 
 package android.databinding;
 import com.acme.tictactoe.BR;
+@javax.annotation.Generated("Android Data Binding")
 class DataBinderMapper  {
     final static int TARGET_MIN_SDK = 23;
     public DataBinderMapper() {

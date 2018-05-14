@@ -6,71 +6,53 @@ import org.junit.Test;
 import static junit.framework.Assert.assertEquals;
 import static junit.framework.Assert.assertNull;
 
-/**
- * There are a lot more tests we can and should write but for now, just a few smoke tests.
- */
 public class TicTacToeTests {
 
-    private Board board;
+    private Table board;
 
     @Before
     public void setup() {
-        board = new Board();
+        board = new Table();
     }
 
-    /**
-     * This test will simulate and verify x is the winner.
-     *
-     *    X | X | X
-     *    O |   |
-     *      | O |
-     */
     @Test
-    public void test3inRowAcrossTopForX() {
+    public void when3inRowAcrossTopForX_xShouldBeTheWinner() {
 
-        board.mark(0,0); // x
+        board.mark(0, 0);
         assertNull(board.getWinner());
 
-        board.mark(1,0); // o
+        board.mark(1, 0);
         assertNull(board.getWinner());
 
-        board.mark(0,1); // x
+        board.mark(0, 1);
         assertNull(board.getWinner());
 
-        board.mark(2,1); // o
+        board.mark(2, 1);
         assertNull(board.getWinner());
 
-        board.mark(0,2); // x
+        board.mark(0, 2);
         assertEquals(Player.X, board.getWinner());
     }
 
-
-    /**
-     * This test will simulate and verify o is the winner.
-     *
-     *    O | X | X
-     *      | O |
-     *      | X | O
-     */
     @Test
-    public void test3inRowDiagonalFromTopLeftToBottomForO() {
+    public void when3inRowDiagonalFromTopLeftToBottomForO_OShouldBeTheWinner() {
 
-        board.mark(0,1); // x
+        board.mark(0, 1);
         assertNull(board.getWinner());
 
-        board.mark(0,0); // o
+        board.mark(0, 0);
         assertNull(board.getWinner());
 
-        board.mark(2,1); // x
+        board.mark(2, 1);
         assertNull(board.getWinner());
 
-        board.mark(1,1); // o
+        board.mark(1, 1);
         assertNull(board.getWinner());
 
-        board.mark(0,2); // x
+        board.mark(0, 2);
         assertNull(board.getWinner());
 
-        board.mark(2,2); // o
+        board.mark(2, 2);
         assertEquals(Player.O, board.getWinner());
 
     }

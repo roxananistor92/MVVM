@@ -4,32 +4,32 @@ import android.arch.lifecycle.ViewModel;
 import android.databinding.ObservableArrayMap;
 import android.databinding.ObservableField;
 
-import com.acme.tictactoe.model.Board;
 import com.acme.tictactoe.model.Player;
+import com.acme.tictactoe.model.Table;
 
 public class TicTacToeViewModel extends ViewModel {
 
-    private Board model;
-
-    public final ObservableArrayMap<String, String> cells = new ObservableArrayMap<>();
-    public final ObservableField<String> winner = new ObservableField<>();
+    private Table table;
+    public ObservableArrayMap<String, String> cells;
+    public ObservableField<String> winner;
 
     public TicTacToeViewModel() {
-        model = new Board();
+        this.table = new Table();
+        this.cells = new ObservableArrayMap<>();
+        this.winner = new ObservableField<>();
     }
 
     public void onResetSelected() {
-        model.restart();
+        table.restart();
         winner.set(null);
         cells.clear();
     }
 
     public void onClickedCellAt(int row, int col) {
-        Player playerThatMoved = model.mark(row, col);
-        if(playerThatMoved != null) {
+        Player playerThatMoved = table.mark(row, col);
+        if (playerThatMoved != null) {
             cells.put("" + row + col, playerThatMoved.toString());
         }
-        winner.set(model.getWinner() == null ? null : model.getWinner().toString());
+        winner.set(table.getWinner() == null ? null : table.getWinner().toString());
     }
-
 }

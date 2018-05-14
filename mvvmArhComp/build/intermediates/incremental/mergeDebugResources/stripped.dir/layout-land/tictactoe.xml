@@ -1,24 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 
+                                                       
                                                    
 
     
+
                                            
-                                                                                            
+
+                 
+                            
+                                                                     
            
 
     <LinearLayout
         android:id="@+id/tictactoe"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:baselineAligned="false"
         android:gravity="center_horizontal"
         android:orientation="horizontal"
-        android:baselineAligned="false"
         android:paddingBottom="@dimen/activity_horizontal_margin"
         android:paddingLeft="@dimen/activity_horizontal_margin"
         android:paddingRight="@dimen/activity_horizontal_margin"
         android:paddingTop="@dimen/activity_horizontal_margin"
-        tools:context="com.acme.tictactoe.view.TicTacToeActivity" android:tag="layout-land/tictactoe_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools">
+        tools:context="com.acme.tictactoe.view.TicTacToeActivity" android:tag="layout-land/tictactoe_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools">
 
         <GridLayout
             android:id="@+id/buttonGrid"
@@ -81,7 +86,8 @@
             android:layout_weight="1"
             android:gravity="center"
             android:orientation="vertical"
-            android:tag="binding_10"                                                        
+            android:visibility="visible"
+            android:tag="binding_10"                                                    
             tools:visibility="visible">
 
             <TextView
@@ -89,15 +95,15 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_margin="20dp"
-                android:textSize="40sp"
                 android:tag="binding_11"          
+                android:textSize="@dimen/big_text_size"
                 tools:text="X" />
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/winner"
-                android:textSize="30sp" />
+                android:textSize="@dimen/medium_text_size" />
 
         </LinearLayout>
 
