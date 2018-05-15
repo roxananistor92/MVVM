@@ -24,6 +24,7 @@ MERGED from [com.android.support:support-core-utils:26.1.0] /Users/roxana.nistor
 MERGED from [com.android.support:support-compat:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/71b9dcca538eaf78768ac63809d56fc6/AndroidManifest.xml:17:1-31:12
 MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/01597c2c58c94370111f719d17324e40/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:multidex:1.0.3] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/54c15c022d3c54ae6383e432893a3941/AndroidManifest.xml:17:1-22:12
+MERGED from [net.hockeyapp.android:HockeySDK:5.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/HockeySDK-5.1.0.aar/6b27028ef9f8b54fd0ef1446e68e358e/AndroidManifest.xml:2:1-28:12
 MERGED from [com.android.support.test.espresso:espresso-idling-resource:2.2.2] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/espresso-idling-resource-2.2.2.aar/7197eec429277a39475bf2d5e5983f09/AndroidManifest.xml:17:1-26:12
 MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/070aad3c9b4127a52bf4fe4afbe6630a/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/ebad1d5672268b8fe7809b1b7e52d2f7/AndroidManifest.xml:17:1-22:12
@@ -73,6 +74,8 @@ MERGED from [com.android.support:support-core-utils:26.1.0] /Users/roxana.nistor
 MERGED from [com.android.support:support-core-utils:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/a0811192c21040eef7c69586e8cb725e/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-compat:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/71b9dcca538eaf78768ac63809d56fc6/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-compat:26.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/71b9dcca538eaf78768ac63809d56fc6/AndroidManifest.xml:25:5-29:19
+MERGED from [net.hockeyapp.android:HockeySDK:5.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/HockeySDK-5.1.0.aar/6b27028ef9f8b54fd0ef1446e68e358e/AndroidManifest.xml:18:5-26:19
+MERGED from [net.hockeyapp.android:HockeySDK:5.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/HockeySDK-5.1.0.aar/6b27028ef9f8b54fd0ef1446e68e358e/AndroidManifest.xml:18:5-26:19
 MERGED from [com.android.support.test.espresso:espresso-idling-resource:2.2.2] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/espresso-idling-resource-2.2.2.aar/7197eec429277a39475bf2d5e5983f09/AndroidManifest.xml:24:5-20
 MERGED from [com.android.support.test.espresso:espresso-idling-resource:2.2.2] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/espresso-idling-resource-2.2.2.aar/7197eec429277a39475bf2d5e5983f09/AndroidManifest.xml:24:5-20
 MERGED from [com.android.support.test:exposed-instrumentation-api-publish:0.5] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/exposed-instrumentation-api-publish-0.5.aar/aad4c6fb4f96968457545ddcb53ceb01/AndroidManifest.xml:24:5-20
@@ -145,6 +148,8 @@ MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/roxana.nistor/.gradle/
 MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/01597c2c58c94370111f719d17324e40/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:multidex:1.0.3] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/54c15c022d3c54ae6383e432893a3941/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:multidex:1.0.3] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/54c15c022d3c54ae6383e432893a3941/AndroidManifest.xml:20:5-43
+MERGED from [net.hockeyapp.android:HockeySDK:5.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/HockeySDK-5.1.0.aar/6b27028ef9f8b54fd0ef1446e68e358e/AndroidManifest.xml:7:5-9:41
+MERGED from [net.hockeyapp.android:HockeySDK:5.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/HockeySDK-5.1.0.aar/6b27028ef9f8b54fd0ef1446e68e358e/AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support.test.espresso:espresso-idling-resource:2.2.2] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/espresso-idling-resource-2.2.2.aar/7197eec429277a39475bf2d5e5983f09/AndroidManifest.xml:20:5-22:41
 MERGED from [com.android.support.test.espresso:espresso-idling-resource:2.2.2] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/espresso-idling-resource-2.2.2.aar/7197eec429277a39475bf2d5e5983f09/AndroidManifest.xml:20:5-22:41
 MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/070aad3c9b4127a52bf4fe4afbe6630a/AndroidManifest.xml:20:5-44
@@ -205,3 +210,43 @@ ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/roxana.nistor/.gradl
 		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/ba64d0eb30a3a5e7efbfc028dfa6b994/AndroidManifest.xml:26:13-37
 	android:name
 		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/ba64d0eb30a3a5e7efbfc028dfa6b994/AndroidManifest.xml:24:13-83
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [net.hockeyapp.android:HockeySDK:5.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/HockeySDK-5.1.0.aar/6b27028ef9f8b54fd0ef1446e68e358e/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [net.hockeyapp.android:HockeySDK:5.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/HockeySDK-5.1.0.aar/6b27028ef9f8b54fd0ef1446e68e358e/AndroidManifest.xml:11:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [net.hockeyapp.android:HockeySDK:5.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/HockeySDK-5.1.0.aar/6b27028ef9f8b54fd0ef1446e68e358e/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from [net.hockeyapp.android:HockeySDK:5.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/HockeySDK-5.1.0.aar/6b27028ef9f8b54fd0ef1446e68e358e/AndroidManifest.xml:12:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [net.hockeyapp.android:HockeySDK:5.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/HockeySDK-5.1.0.aar/6b27028ef9f8b54fd0ef1446e68e358e/AndroidManifest.xml:13:5-15:38
+	android:maxSdkVersion
+		ADDED from [net.hockeyapp.android:HockeySDK:5.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/HockeySDK-5.1.0.aar/6b27028ef9f8b54fd0ef1446e68e358e/AndroidManifest.xml:15:9-35
+	android:name
+		ADDED from [net.hockeyapp.android:HockeySDK:5.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/HockeySDK-5.1.0.aar/6b27028ef9f8b54fd0ef1446e68e358e/AndroidManifest.xml:14:9-65
+uses-permission#android.permission.REQUEST_INSTALL_PACKAGES
+ADDED from [net.hockeyapp.android:HockeySDK:5.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/HockeySDK-5.1.0.aar/6b27028ef9f8b54fd0ef1446e68e358e/AndroidManifest.xml:16:5-83
+	android:name
+		ADDED from [net.hockeyapp.android:HockeySDK:5.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/HockeySDK-5.1.0.aar/6b27028ef9f8b54fd0ef1446e68e358e/AndroidManifest.xml:16:22-80
+activity#net.hockeyapp.android.UpdateActivity
+ADDED from [net.hockeyapp.android:HockeySDK:5.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/HockeySDK-5.1.0.aar/6b27028ef9f8b54fd0ef1446e68e358e/AndroidManifest.xml:19:9-73
+	android:name
+		ADDED from [net.hockeyapp.android:HockeySDK:5.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/HockeySDK-5.1.0.aar/6b27028ef9f8b54fd0ef1446e68e358e/AndroidManifest.xml:19:19-70
+activity#net.hockeyapp.android.FeedbackActivity
+ADDED from [net.hockeyapp.android:HockeySDK:5.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/HockeySDK-5.1.0.aar/6b27028ef9f8b54fd0ef1446e68e358e/AndroidManifest.xml:20:9-22:71
+	android:windowSoftInputMode
+		ADDED from [net.hockeyapp.android:HockeySDK:5.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/HockeySDK-5.1.0.aar/6b27028ef9f8b54fd0ef1446e68e358e/AndroidManifest.xml:22:13-68
+	android:name
+		ADDED from [net.hockeyapp.android:HockeySDK:5.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/HockeySDK-5.1.0.aar/6b27028ef9f8b54fd0ef1446e68e358e/AndroidManifest.xml:21:13-66
+activity#net.hockeyapp.android.PaintActivity
+ADDED from [net.hockeyapp.android:HockeySDK:5.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/HockeySDK-5.1.0.aar/6b27028ef9f8b54fd0ef1446e68e358e/AndroidManifest.xml:23:9-72
+	android:name
+		ADDED from [net.hockeyapp.android:HockeySDK:5.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/HockeySDK-5.1.0.aar/6b27028ef9f8b54fd0ef1446e68e358e/AndroidManifest.xml:23:19-69
+activity#net.hockeyapp.android.LoginActivity
+ADDED from [net.hockeyapp.android:HockeySDK:5.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/HockeySDK-5.1.0.aar/6b27028ef9f8b54fd0ef1446e68e358e/AndroidManifest.xml:24:9-72
+	android:name
+		ADDED from [net.hockeyapp.android:HockeySDK:5.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/HockeySDK-5.1.0.aar/6b27028ef9f8b54fd0ef1446e68e358e/AndroidManifest.xml:24:19-69
+activity#net.hockeyapp.android.ExpiryInfoActivity
+ADDED from [net.hockeyapp.android:HockeySDK:5.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/HockeySDK-5.1.0.aar/6b27028ef9f8b54fd0ef1446e68e358e/AndroidManifest.xml:25:9-77
+	android:name
+		ADDED from [net.hockeyapp.android:HockeySDK:5.1.0] /Users/roxana.nistor/.gradle/caches/transforms-1/files-1.1/HockeySDK-5.1.0.aar/6b27028ef9f8b54fd0ef1446e68e358e/AndroidManifest.xml:25:19-74

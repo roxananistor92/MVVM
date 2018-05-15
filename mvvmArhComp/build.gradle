@@ -62,4 +62,6 @@ dependencies {
     // For Room RxJava support, add:
     implementation "android.arch.persistence.room:rxjava2:1.1.0"
     implementation 'com.android.support:multidex:1.0.3'
+
+    implementation 'net.hockeyapp.android:HockeySDK:5.1.0'
 }
