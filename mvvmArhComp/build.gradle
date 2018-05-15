@@ -1,4 +1,5 @@
 apply plugin: 'com.android.application'
+apply plugin: 'de.felixschulze.gradle.hockeyapp'
 
 android {
     compileSdkVersion 26
@@ -65,4 +66,8 @@ dependencies {
     implementation 'com.android.support:multidex:1.0.3'
 
     implementation 'net.hockeyapp.android:HockeySDK:5.1.0'
+}
+
+hockeyapp {
+    apiToken = "57a197f100b84e3094e2cb5b612120eb"
 }

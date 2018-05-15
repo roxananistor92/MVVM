@@ -1,4 +1,0 @@
-#Mon May 14 14:21:39 EEST 2018
-base.0=/Users/roxana.nistor/projects/mvvm/mvvmArhComp/build/intermediates/transforms/dexMerger/androidTest/debug/0
-path.0=classes.dex
-renamed.0=classes.dex
