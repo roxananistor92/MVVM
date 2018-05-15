@@ -8,9 +8,13 @@ import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
 
+import com.acme.tictactoe.BuildConfig;
 import com.acme.tictactoe.R;
 import com.acme.tictactoe.databinding.TictactoeBinding;
 import com.acme.tictactoe.viewmodel.TicTacToeViewModel;
+
+import net.hockeyapp.android.CrashManager;
+import net.hockeyapp.android.UpdateManager;
 
 public class TicTacToeActivity extends AppCompatActivity {
 
@@ -22,6 +26,26 @@ public class TicTacToeActivity extends AppCompatActivity {
         viewModel = ViewModelProviders.of(this).get(TicTacToeViewModel.class);
         TictactoeBinding binding = DataBindingUtil.setContentView(this, R.layout.tictactoe);
         binding.setViewModel(viewModel);
+
+        checkForUpdates();
+    }
+
+    @Override
+    public void onResume() {
+        super.onResume();
+        checkForCrashes();
+    }
+
+    @Override
+    public void onPause() {
+        super.onPause();
+        unregisterManagers();
+    }
+
+    @Override
+    public void onDestroy() {
+        super.onDestroy();
+        unregisterManagers();
     }
 
     @Override
@@ -40,5 +64,19 @@ public class TicTacToeActivity extends AppCompatActivity {
         } else {
             return super.onOptionsItemSelected(item);
         }
+    }
+
+    private void checkForCrashes() {
+        CrashManager.register(this);
+    }
+
+    private void checkForUpdates() {
+        if (BuildConfig.DEBUG) {
+            UpdateManager.register(this);
+        }
+    }
+
+    private void unregisterManagers() {
+        UpdateManager.unregister();
     }
 }

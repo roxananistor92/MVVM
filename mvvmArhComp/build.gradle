@@ -11,6 +11,7 @@ android {
         versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
         multiDexEnabled true
+        manifestPlaceholders = [HOCKEYAPP_APP_ID: "b43df89c4081406ea1833cdeb81b466d"]
     }
 
     signingConfigs {
