@@ -4,15 +4,30 @@ apply plugin: 'de.felixschulze.gradle.hockeyapp'
 android {
     compileSdkVersion 26
     buildToolsVersion '27.0.3'
-    defaultConfig {
-        applicationId "com.acme.tictactoe"
-        minSdkVersion 23
-        targetSdkVersion 26
-        versionCode 1
-        versionName "1.0"
-        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
-        multiDexEnabled true
-        manifestPlaceholders = [HOCKEYAPP_APP_ID: "b43df89c4081406ea1833cdeb81b466d"]
+
+    def versionPropsFile = file('version.properties')
+
+    if (versionPropsFile.canRead()) {
+        Properties versionProps = new Properties()
+
+        versionProps.load(new FileInputStream(versionPropsFile))
+        def name = versionProps['VERSION_NAME']
+        def code = versionProps['VERSION_CODE'].toInteger() + 1
+        versionProps['VERSION_CODE'] = code.toString()
+        versionProps.store(versionPropsFile.newWriter(), null)
+
+        defaultConfig {
+            applicationId "com.acme.tictactoe"
+            minSdkVersion 23
+            targetSdkVersion 26
+            versionName name
+            versionCode code
+            testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+            multiDexEnabled true
+            manifestPlaceholders = [HOCKEYAPP_APP_ID: "b43df89c4081406ea1833cdeb81b466d"]
+        }
+    } else {
+        throw new GradleException("Could not read version.properties!")
     }
 
     signingConfigs {
@@ -36,7 +51,7 @@ android {
         enabled = true
     }
     lintOptions {
-        disable 'TypographyFractions','TypographyQuotes','InvalidPackage'
+        disable 'TypographyFractions', 'TypographyQuotes', 'InvalidPackage'
         abortOnError false
         absolutePaths false
         lintConfig file('lint.xml')
